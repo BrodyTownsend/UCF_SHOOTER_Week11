@@ -6,4 +6,4 @@ The only file that was changed by Brody was "Assets/Scripts/Player.cs". This mak
 
 The second push was uploading the files needed for adding a second enemy type called Side Enemy. This kind of enemy spawns in from the right side of the screen and above where the player is able to move. This was done by Jadyn Englett.
 
-The third push was creating a econd enemy called Side Side Enemy. This type of enemy spawns in from the left side at a faster rate, and travels much faster than the other enemies, only above where the player is able to move --> Brandon Wei
+The third push was creating a third enemy called Side Side Enemy. This type of enemy spawns in from the left side at a faster rate, and travels much faster than the other enemies, only above where the player is able to move --> Brandon Wei
